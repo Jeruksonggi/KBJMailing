@@ -1,0 +1,17 @@
+{
+  "name": "mail-server-app",
+  "version": "1.0.0",
+  "description": "Simple Mail Server with Webmail and User Management",
+  "main": "smtp-server.js",
+  "scripts": {
+    "start": "node smtp-server.js & node mail-client.js",
+    "smtp": "node smtp-server.js",
+    "webmail": "node mail-client.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "smtp-server": "^3.14.0"
+  }
+}

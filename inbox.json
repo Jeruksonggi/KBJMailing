@@ -1,0 +1,50 @@
+[
+  {
+    "from": "no-reply@accounts.go0gle.com",
+    "to": [
+      "user1@kbj.mailing"
+    ],
+    "data": "From: no-reply@accounts.go0gle.com\r\nTo: user1@kbj.mailing\r\nSubject: Notifikasi Keamanan\r\nMessage-ID: <75fd22e9-dece-2ea6-f3aa-c90d9557b5c5@accounts.go0gle.com>\r\nContent-Transfer-Encoding: 7bit\r\nDate: Sat, 28 Jun 2025 06:48:53 +0000\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=utf-8\r\n\r\ngg\r\n",
+    "date": "2025-06-28T06:48:53.658Z"
+  },
+  {
+    "from": "facebook@go0gle.com",
+    "to": [
+      "user1@kbj.mailing"
+    ],
+    "data": "From: facebook@go0gle.com\r\nTo: user1@kbj.mailing\r\nSubject: ForensikDigit\r\nMessage-ID: <a9233bf9-86de-cac5-2881-8aad4129e01e@go0gle.com>\r\nContent-Transfer-Encoding: 7bit\r\nDate: Sat, 28 Jun 2025 06:57:12 +0000\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=utf-8\r\n\r\nTale\r\n",
+    "date": "2025-06-28T06:57:12.783Z"
+  },
+  {
+    "from": "coba@mail",
+    "to": [
+      "user2@kbj.mailing"
+    ],
+    "date": "2025-06-28T12:13:30.723Z",
+    "data": "From: coba@mail\r\nTo: user2@kbj.mailing\r\nSubject: tes\r\nMessage-ID: <8677b2e3-41c6-4037-c010-63ca3843c5c4@mail>\r\nContent-Transfer-Encoding: 7bit\r\nDate: Sat, 28 Jun 2025 12:13:30 +0000\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=utf-8\r\n\r\nting\r\n"
+  },
+  {
+    "from": "coba@mail2",
+    "to": [
+      "user2@kbj.mailing"
+    ],
+    "date": "2025-06-28T12:18:36.181Z",
+    "data": "From: coba@mail2\r\nTo: user2@kbj.mailing\r\nSubject: tes\r\nMessage-ID: <650026d8-a879-f8ae-88a3-65af07b472b4@mail2>\r\nDate: Sat, 28 Jun 2025 12:18:35 +0000\r\nMIME-Version: 1.0\r\nContent-Type: multipart/alternative;\r\n boundary=\"--_NmP-3ab575cf2c953e7c-Part_1\"\r\n\r\n----_NmP-3ab575cf2c953e7c-Part_1\r\nContent-Type: text/plain; charset=utf-8\r\nContent-Transfer-Encoding: 7bit\r\n\r\ncoba klik Di sini\r\n----_NmP-3ab575cf2c953e7c-Part_1\r\nContent-Type: text/html; charset=utf-8\r\nContent-Transfer-Encoding: 7bit\r\n\r\ncoba klik <a href=\"https://google.com\">Di sini</a>\r\n----_NmP-3ab575cf2c953e7c-Part_1--\r\n"
+  },
+  {
+    "from": "cobarawr@mail",
+    "to": [
+      "user2@kbj.mailing"
+    ],
+    "date": "2025-06-28T13:18:30.543Z",
+    "data": "From: rawr <cobarawr@mail>\r\nTo: user2@kbj.mailing\r\nSubject: 123\r\nMessage-ID: <8e7d3596-f951-25f8-33cb-b3caaadd205d@mail>\r\nDate: Sat, 28 Jun 2025 13:18:30 +0000\r\nMIME-Version: 1.0\r\nContent-Type: multipart/alternative;\r\n boundary=\"--_NmP-6256540f0c680067-Part_1\"\r\n\r\n----_NmP-6256540f0c680067-Part_1\r\nContent-Type: text/plain; charset=utf-8\r\nContent-Transfer-Encoding: 7bit\r\n\r\ntesting\r\n----_NmP-6256540f0c680067-Part_1\r\nContent-Type: text/html; charset=utf-8\r\nContent-Transfer-Encoding: 7bit\r\n\r\ntesting\r\n----_NmP-6256540f0c680067-Part_1--\r\n"
+  },
+  {
+    "from": "lagi@mail",
+    "to": [
+      "user1@kbj.mailing"
+    ],
+    "date": "2025-06-28T13:23:41.694Z",
+    "data": "From: coba <lagi@mail>\r\nTo: user1@kbj.mailing\r\nSubject: testing\r\nMessage-ID: <ef8ba5b6-a59b-2288-c7d7-6c4f27d51fb5@mail>\r\nDate: Sat, 28 Jun 2025 13:23:41 +0000\r\nMIME-Version: 1.0\r\nContent-Type: multipart/alternative;\r\n boundary=\"--_NmP-ed57c438a565e4b2-Part_1\"\r\n\r\n----_NmP-ed57c438a565e4b2-Part_1\r\nContent-Type: text/plain; charset=utf-8\r\nContent-Transfer-Encoding: 7bit\r\n\r\nlagi\r\n\r\n----_NmP-ed57c438a565e4b2-Part_1\r\nContent-Type: text/html; charset=utf-8\r\nContent-Transfer-Encoding: 7bit\r\n\r\nlagi\r\n\r\n----_NmP-ed57c438a565e4b2-Part_1--\r\n"
+  }
+]
